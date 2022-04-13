@@ -1,0 +1,8 @@
+We set up jenkins in our localhost
+Created and configure a frestyle job by connecting to github 
+Set up a webhooks on github 
+api request to jenkins and ping a messaage through ngrook
+created user and managed access priviledges
+Source Code Managent 
+Add Build 
+Set up cron job within jenkins
